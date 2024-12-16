@@ -12,7 +12,7 @@ export function Footer() {
           <div className="flex gap-4">
             <Button variant="ghost" size="icon" asChild>
               <a
-                href="https://github.com/PKBOSS26"
+                href="https://github.com/Pratikkale26"
                 target="_blank"
                 rel="noopener noreferrer"
               >

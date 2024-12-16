@@ -37,6 +37,7 @@ const skillCategories = [
       "WebSockets",
       "REST APIs",
       "Serverless Functions",
+      "Hono"
     ],
   },
   {
@@ -59,6 +60,7 @@ const skillCategories = [
       "Turborepo",
       "CI/CD Pipelines",
       "NGINX",
+      "Apache Kafka",
     ],
   },
   {

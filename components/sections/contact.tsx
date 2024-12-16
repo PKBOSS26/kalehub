@@ -49,7 +49,7 @@ export function Contact() {
             <div className="mt-8 flex justify-center gap-6">
               <Button variant="ghost" size="icon" asChild>
                 <a
-                  href="https://github.com/PKBOSS26/"
+                  href="https://github.com/Pratikkale26/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

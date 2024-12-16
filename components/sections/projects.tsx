@@ -14,7 +14,7 @@ const projects = [
     image: "https://miro.medium.com/v2/resize:fit:1400/1*hCOOFW4sQi1jz7-2u1sJGQ.png",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
     demo: "#",
-    github: "https://github.com/PKBOSS26/",
+    github: "https://github.com/Pratikkale26/",
   },
   {
     title: "Real-time Chat Application",
@@ -22,7 +22,7 @@ const projects = [
     image: "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=800&q=80",
     tech: ["React", "Node.js", "Socket.io", "MongoDB"],
     demo: "https://speedenchat.kalehub.com",
-    github: "https://github.com/PKBOSS26/Realtime-Chat-App",
+    github: "https://github.com/Pratikkale26/Realtime-Chat-App",
   },
   {
     title: "Instagram Clone",
@@ -30,7 +30,7 @@ const projects = [
     image: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/07/instagram-freepik-1688884010.jpg",
     tech: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
     demo: "https://psocial.kalehub.com/login",
-    github: "https://github.com/PKBOSS26/PSocial-InstaClone-",
+    github: "https://github.com/Pratikkale26/PSocial-InstaClone-",
   },
 ];
 
